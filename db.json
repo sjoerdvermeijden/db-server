@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "id": 1, "title": "Json-server", "author": "Sjoerd Vermeijden" },
+    { "id": 2, "title": "Vanilla-javascript", "author": "Sjoerd Vermeijden" },
+    { "id": 4, "title": "Gatsby", "author": "Sjoerd Vermeijden" },
+    { "id": 5, "title": "React", "author": "Sjoerd Vermeijden" },
+    { "id": 6, "title": "Gatsby", "author": "Sjoerd Vermeijden" },
+    { "id": 7, "title": "Gatsby", "author": "Sjoerd Vermeijden" }
+  ]
+}
